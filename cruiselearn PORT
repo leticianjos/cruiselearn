@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+ <title>CruiseLearn</title>
+ <link rel="stylesheet" href="styles.css"
+</head>
+
+<div id="cabecalho">
+ <img id="logo" src="img/logo.png" alt="Logo da empresa">
+
+</div>
+
+<body>
+ <div class="container">
+ <h1>Bem-vindo ao CruiseLearn</h1>
+ 
+ <div class="passeio-cruzeiro">
+ <h2>Você é aquela pessoa que deseja viajam pelo mundo, mas seu inglês anda um pouco enferujado? Calma que eu tenho uma solução</h2>
+<p>Apresento a você o CruizeLearn, um cruzeiro onde você aprofundar seu inglês, e ao mesmo tempo ter uma uma experiência inesquecível,  conhecendo diferentes lugares em uma só viagem.</p>
+<p>A bordo do cruzeiro, você terá acesso a uma infinidade de atividades de entretenimento, desde aulas de inglês até shows de tirar o fôlego, tudo isso contando com a imerção da língua inglesa.</p>
+<p>Quer saber mais? Leia o nosso artigo abaixo, e não se esqueça <font color="#800080">Aprenda e divirta-se explorando novos destinos com CruiseLear!</font></p>
+
+
+ <img src="img/cruzeiro.jpg" alt="cruzeiro" height="480" width="400">
+ <img src="img/cruzeiro3.jpg" alt="cruzeiro" height="480" width="250">
+ <img src="img/cruzeiro2.jpg" alt="cruzeiro" height="480" width="400">
+ </div>
+
+ <p> <br/><br/><br/> </p>
+
+ <div class="roteuro de viagem">
+ <h2><font color="#800080">Roteiro de viagem</font></h2>
+
+<p><br></p> 
+
+<p><strong>- 1° Parada: Estados Unidos - Nova York</strong></p>
+<p><font color="#800080">-Broadway:</font>
+Assistir a um musical da Broadway é um dos programas mais procurados por brasileiros que viajam a Nova York. São apresentações grandiosas e superproduzidas que realmente proporcionam experiências inesquecíveis.</p>
+ 
+
+<p><font color="#800080">-Museu Nacional dos Indios:</font>
+Parte de um braço do Instituto Smithsonian em Nova York, o museu está instalado em uma linda construção próxima do Battery Park. Ali há mais de 825.000 itens de 1.200 culturas indígenas, cobrindo 12.000 anos de história dos povos nativos dos Estados Unidos. É uma das maiores coleções do gênero do mundo e essencial para entender um pouco do território antes da chegada dos europeus.</p>
+
+<img src="img/bro.jpg" alt="cruzeiro" height="315" width="400">
+<img src="img/museu.webp" alt="cruzeiro" height="315" width="400">
+
+<p><br></p> 
+
+<p><strong>- 2° Parada: Canadá - Montreal</strong></p>
+
+<p><font color="#800080">-Jardim boânico de Montreal:</font>
+Conheça o Jardim Botânico de Montreal, um dos maiores jardins botânicos do mundo. Os amantes da natureza vão ficar encantados com as mais de 22 mil espécies de plantas, 10 estufas de exposição e 20 jardins temáticos ao longo de seus 75 hectares de muito ar fresco e beleza natural.</p>
+
+<p><font color="#800080">-Basílica de Notre Dame:</font>
+A Basílica Notre-Dame de Montreal é uma das construções mais incríveis da cidade e não deve ficar de fora do seu roteiro. Ela é uma das principais igrejas de Montreal e é dedicada à Virgem Maria.
+A basílica é bem grande e tem uma arquitetura realmente muito bonita, mas é o seu altar que tira o fôlego dos visitantes, neste espaço o destaque fica por conta da madeira do altar esculpida e pintada em azul e dourado. O espaço é magnífico e vale muito uma foto.</p>
+
+<img src="img/jardim.jpg" alt="cruzeiro" height="315" width="400">
+<img src="img/basilica.avif" alt="cruzeiro" height="315" width="400">
+
+<p><br></p>
+
+<p><strong>- 3° Parada: inglaterra - Londres</strong></p>
+
+<p><font color="#800080">-Torre de Londres:</font>
+Situada às margens do Rio Tamisa, a Torre de Londres é uma das atrações turísticas mais populares da cidade por causa da mistura de intriga e pavor inspirados por sua história. Você terá a oportunidade de ver peças magníficas da realeza, que você provavelmente já viu em revistas inúmeras vezes</p>
+
+<p><font color="#800080">-Palácio de Buckingham:</font>
+Construído em 1703 como residência do duque de Buckingham, o palácio agora serve como residência oficial do monarca britânico, Charles III. É um palácio luxuoso com quartos deslumbrantes, escritórios e belos jardins. O Palácio de Buckingham tem mais de 775 quartos, incluindo 19 quartos de estado, 52 quartos reais e de hóspedes, 92 escritórios e 78 banheiros. Você pode explorar várias seções do edifício e conferir as Salas de Estado, Sala do Trono, Salão de Baile, Grande Escadaria, Sala de Desenho Branca e a Galeria da Rainha, entre outros.</p>
+
+<img src="img/torre.webp" alt="cruzeiro" height="315" width="400">
+<img src="img/palacio.jpeg" alt="cruzeiro" height="315" width="400">
+
+<p><br></p>
+
+<p><strong>- 4° Parada: africa do Sul - Cidade do Cabo</strong></p>
+ 
+<p><font color="#800080">-Green Point:</font>
+Construído à beira do oceano, o Green Point já se tornou um dos cartões-postais da Cidade do Cabo, mais um dos estádios construídos especificamente para a disputa da Copa do Mundo 2010, o Green Point é considerado um dos mais belos da África do Sul. Com capacidade para 70 mil espectadores, o local, que na verdade é uma arena multiuso, pode receber shows e outros grandes eventos e é todo revestido por uma camada antirruído. </p>
+
+<p><font color="#800080">-Green Point:</font>
+Boulders Beach é uma simpática praia de águas cristalinas e calmas na Cidade do Cabo, e a mais visitada da região, sendo o único lugar do mundo em que você consegue ficar assim tão perto dos pinguins africanos!</p>
+
+<img src="img/estadio.jpg" alt="cruzeiro" height="315" width="400">
+<img src="img/pinguin.jpg" alt="cruzeiro" height="315" width="400">
+
+ <p> <br/><br/><br/> </p>
+
+ <div class="sobre o cruzeiro">
+ <h2><font color="#800080">Como funciona o custo da viagem?</font></h2>
+
+ <p>Tudo está incluso, <strong>exceto</strong> as despesas em destinos, refeições feitas em restaurantes do cruzeiro, SPA e academia</p>
+
+ <p> <br/><br/><br/> </p>
+
+ <div class="sobre o cruzeiro">
+ <h2>ATENÇÃO</h2>
+
+<p><strong>Fique atento aos horários estabelecidos pelo navio para desembarque e embarque em cada destino, assim como às atividades e excursões opcionais oferecidas a bordo</strong></p>
+
+<p> <br/><br/><br/> </p>
+
+ <div class="sobre o cruzeiro">
+ <h2><font color="#800080">Dia de embarque</font></h2>
+
+<p>- O cruzeiro sairá do Terminal Marítimo do Pier Mauá às 06:00 da manhã, chegue ao porto de embarque com antecedência, no mínimo 2 horas antes</p>
+
+<p><strong>Rio de Janeiro - Terminal Marítimo Pier Maúa</strong></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.4808658833285!2d-43.18437532370276!3d-22.895627937474195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f395b7b3371%3A0xf88af2b948ed817e!2sPier%20Mau%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1698148371823!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<p><br></p>
+
+<p>- Realize o check-in, apresente seu certificado de curso intermediário ou avançado de inglês, pegue sua pulseira de indentificação, e embarque no navio.</p>
+<p>- Verifique o número de sua cabine e se instale</p>
+<p>- Tome seu café da manhã das 06:30 às 07:30</p>
+<p>- Desembarque às 08:00 com o nosso guia local, e participe de nossas excursões organizadas, conheça os pontos turísticos apresentados. Após essa atividade você esta liberado para explorar a cidade como desejar, conhecendo a cultura, comidas típicas do local ou fazendo compras</p>
+<p>- Volte ao navio às 18:30 para partida, não se esqueça de apresentar seu documento de identificação</p>
+<p>- À noite, aproveite as instalações do navio e relaxe.</p>
+
+<p> <br/><br/><br/> </p>
+
+<div class="sobre o cruzeiro">
+    <h2><font color="#800080">Sobre a pulseira de indentificação</font></h2>
+
+<p>Cada passageiro recebe uma pulseira com um código único. Antes do início do cruzeiro, os dados dos passageiros, são registrados e programados em nosso sistema de controle de acesso, onde acompanhamos em tempo real o status de cada passageiro, facilitando o monitoramento de entrada e saída.</p>
+<p>Há máquinas de leitura de pulseiras instaladas em nossos portões de embarque e desembarque.
+Além disso ela é utilizada para realizar pagamentos dentro do cruzeiro, ter acesso as cabines e registro das atividades feitas no navio. Proporcionando agilidade, segurança, e maior desepenho para nossos passagueiros</p>
+
+<img src="img/pulseira.jpg" alt="cruzeiro" height="315" width="400">
+
+<p> <br/><br/><br/> </p>
+
+
+<div class="sobre o cruzeiro">
+ <h2><font color="#800080">Último dia de navegação</font></h2>
+<p>- Desfrute do último dia de navegação.</p>
+<p>- Participe de nossas atividades</p>
+<p>- Desfrute de refeições especiais a bordo.</p>
+<p>- As 17:00 horas da tarde todos os devem comparecer à sala de reunião, onde iram recebem os seus certificados</p>
+<p>- Ao se encerar a reunião, aproveite a noite, dance na discoteca, e assista ao grande show de encerramento.</p>
+
+<p> <br/><br/><br/> </p>
+
+<div class="sobre o cruzeiro">
+ <h2><font color="#800080">Desembarque</font></h2><div class="sobre o cruzeiro">
+ 
+<p>- Prepare as malas e desembarque do navio após o café da manhã.</p>
+<p>- Ao desembarcar devolva a pulseira de indentificação</p>
+<p>- Agradeça à tripulação pelo serviço prestado.</p>
+<p>- Retorne ao porto de embarque, e retorne para casa </p>
+<p>- Nós avalie e volte quando quiser</p>
+
+<p> <br/><br/><br/> </p>
+
+<div class="sobre o cruzeiro">
+ <h2><font color="#800080">Programação diária</font></h2>
+
+<p><strong>*ATENÇÃO nos dias de Paradas em destinos o cronograma diário é cancelado*</strong></p>
+
+<img src="img/cronograma.png" alt="cruzeiro" height="400" width="600">
+
+
+<p> <br/><br/><br/> </p>
+
+<div class="sobre o curso">
+ <h2><font color="#800080">Sobre o curso</font></h2>
+
+<p>- Ofereceremos aulas obrigatórias e opcionais </p>
+<p>- Disponibilizaremos o material de apoio do curso durante o decorrer das aulas, como apostilas e livros, para ajudar a continuar praticando o inglês fora do cruzeiro</p>
+<p>- Dentro do navio haverá atividades comunicativas, como workshops, esporte, cassino, shows, palestras, aulas de culinária, cinema, spa, restaurantes, todas usando os inglês, o que Agregará seu conhecimento sobre a língua</p>
+<p>- Paradas em destinos, onde você poderá se comunicar com os nativos e praticar seu inglês</p>
+<p>- Após o fim da viagem enviaremos seu certificado online e seus pontos alcançados durante as atividades</p>
+
+<p> <br/><br/><br/> </p>
+
+<div class="Aulas">
+    <h2><font color="#800080">Aulas e professores</font></h2>
+   
+<p>Aulas de ingles são <strong>obrigatórias</strong>, e acontecem de segunda á sábado, das 08:00 às 11:00 da manhã. São mais de 10 com formações acadêmicas em ensino de inglês, como língua estrangeira e experiência. Dentro dessas aulas há programas de imersão em inglês e atividades relacionadas, como conversação, pronúncia, leitura e escrita, proporcionando aulas interativas</p>
+
+<p><br></p>
+
+<p><strong>Você está cansado dos mesmos exercícios de inglês? Então, conheça a Teacher Paula Gabriela</strong></p>
+<p>Uma das professoras que mais cresceu nos últimos anos, dando aulas em grandes plataformas. A Teacher Paula Gabriela começou a desenvolver um novo jeito de ensinar o inglês, que é mais prático e divertido, com uso filmes, séries, músicas e viagens</p>
+
+<img src="img/prof1.png" alt="cruzeiro" height="315" width="600">
+
+<p> <br/><br/><br/> </p>
+
+
+<div class="Aulas">
+    <h2><font color="#800080">Palestras</font></h2>
+
+<p>As palestras também são <strong>obrigatórias</strong>. Nossos palestrantes são altamente qualificados e experientes, eles abordam uma variedade de tópicos, como vocabulário, gramática, pronúncia, expressões idiomáticas e cultura.
+Durante as Palestras os participantes têm a oportunidade de praticar suas habilidades de conversação em inglês, participando de exercícios interativos e discussões em grupo. Vamos conhecer um pouco sobre um dos nossos palestrantes convidados?</p>
+
+<p><br></p>
+
+<p><strong>É bastante comum notar os brasileiros com interesse em aprender inglês, mas você já pensou como isso funciona ao contrário?</strong></p>
+<p>E se eu te contar que um norte-americano chamado Gavin Roy, se tornou fluente em português sozinho?
+    Parece impossível, mas é verdade! Então, se tornar fluente em inglês também é possível, essa é a promessa do Gavin Roy, um dos principais professores de inglês do mercado. E para descobrir se tudo isso é verdade, preparamos uma palestra exclusiva com ele em nosso cruzeiro.</p>    
+
+    <img src="img/prof2.jpeg" alt="cruzeiro" height="315" width="600">
+
+<p> <br/><br/><br/> </p>
+
+<div class="Gastronômia">
+ <h2><font color="#800080">Gastronomia</font></h2>
+
+<p>Os nossos restaurantes são diversificados, oferecendo uma variedade de opções. Desde restaurantes buffet, que servem pratos de todo o mundo, restaurantes de especialidades que proporcionam uma experiência gourmet, e restaurantes de culinária temática, como churrascarias, restaurantes japoneses e italianos, etc. Tudo para que todos tenham uma oportunidade única de explorar sabores.</p>
+ 
+<img src="img/comi1.jpg" alt="cruzeiro" height="380" width="300">
+<img src="img/comi3.jpg" alt="cruzeiro" height="380" width="250">
+<img src="img/comi2.jpg" alt="cruzeiro" height="380" width="300">
+
+
+<p><br></p>
+
+<p><strong>Você sabia que temos aulas de culinária a bordo?</strong></p> 
+    O nosso cruzeiro oferece aulas <strong>opicionais </strong>de culinária com nossa chefe Queren, que têm conhecimento em uma variedade de estilos de culinária. 
+    A chef explica as técnicas culinárias em inglês, e fornece instruções passo a passo para os participantes seguirem. Durante as aulas, os alunos aprendem a preparar receitas e utilizar diferentes utensílios de cozinha, para entender o vocabulário relacionado à culinária em inglês.
+    Os pratos são realizados em grupo, o que proporciona uma experiência social e divertida, para que os participantes podem interagir entre si, compartilhar dicas e trocar experiências culinárias.</p>
+
+    <video width="560" height="315" controls>
+        <source src="vid/gastro.mp4" type="video/mp4">
+        </video>
+        </div>
+
+
+<p> <br/><br/><br/> </p>
+
+<div class="sobre o curso">
+ <h2><font color="#800080">Saúde e Beleza</font></h2>
+
+<p><strong>- Academia: </strong>Abrem das 05:00 as 07:30 da manhã, e voltam a partir das 11:15, há pausas nos dias de palestra</p>
+<p><strong>- SPA: </strong>Você pode desfrutar de massagens, tratamentos faciais, manicures e pedicures, e relaxar na pscina de hidromassagem, abrem a partir das 11:15, há também pausas nos dias de palestra</strong></p>
+
+<p> <br/><br/><br/> </p>
+
+
+<div class="sobre o curso">
+ <h2><font color="#800080">Atividades a bordo</font></h2>
+
+<p><strong>Adquiria um desconto na sua próxima viagem CruiseLear</strong></p>
+<p>Caso você participar de alguma atividade proposta a bordo, ocasionará em pontos, os quais você poderá apresentar na sua próxima viagem do CruiseLear e conseguir um desconto, legal não é? As atividades incluem:</p>
+<p><strong>ATENÇÃO: As atividades a bordo são pausadas durante o horário de palestra</strong></p>
+<p><br></p>
+
+<p><strong>- Esportes</strong></p>
+<p>Pequenas áreas para a prática de esportes como basquete, golfe em miniatura e tênis de mesa, com o acompanhamento de nossos instrutores 
+Academias abrem das 05:00 as 07:30 da manhã, e voltam a partir das 11:15, há pausas nos dias de palestra</p>
+
+<p><br></p>
+
+<p><strong>- Casinos Educativos</strong></p>
+<p>Onde você pode tentar a sorte <strong>sem o uso de apostas (dinheiro)</strong>, em jogos como blackjack, pôquer e caça-níqueis, os jogadores podem trocar seus pontos coletados nas partidas por prêmios. Assim proporcionando mais segurança e diversão aos nossos passageiros, aberto a semna toda, a partir das 20:00 horas da noite</p>
+
+<p><br></p>
+
+<p><strong>- Cinema</strong></p>
+
+<p><strong>Filmes somente em inglês e legendados</strong></p>
+<p>As sessões acontecem de segunda a sexta, das 20:00 às 22:30 da noite</p>
+
+<p><br></p>
+
+<p><strong>- Atividades para crianças e adolescentes</strong></p>
+No caso de você ter levado alguma criança, há áreas de recreação, clubes infantis disponiveis em nosso navio. Elas podem ser cuidadas com segura, graças aos nossos tutores presentes nesses espaços, abertas a semana toda, das 07:30 ás 22:00<p>
+
+<p> <br/><br/><br/> </p>
+
+ <div class="Atrações">
+ <h2><font color="#800080">Atrações e festas temáticas</font></h2>
+ 
+ <p>Festas temáticas são uma maneira de se envolver com o pessoal a bordo. Uma das mais comentadas dentro do nosso cruzeiro é a festa tropical, onde ofertamos uma grande variedade de comidas e bebidas tropicais. Onde os passageiros usam roupas e acessórios tropicais, como trajes de banho, camisas floridas, colares havaianos, etc. Há atrações todas as noites, com música ao vivo e bares abertos, para os passageiros desfrutarem.</p>
+ 
+ <p><br></p>
+
+ <p><strong>Já pensou viajar com seu cantor preferido? É isso mesmo, além de você poder praticar seu inglês há a chance de conhecer seu cantor preferido.</strong></p>
+ 
+ <img src="img/brunoM.webp" alt="cruzeiro" height="315" width="400">
+
+ <video width="560" height="315" controls>
+ <source src="vid/bruno.mp4" type="video/mp4">
+ </video>
+ </div>
+
+ <p>Com toda a certeza, estar no show de Bruno Mars em uma viagem de cruzeiro é uma experiência única e emocionante, não é mesmo? A energia contagiante do cantor e a festa a bordo do navio criam uma combinação perfeita. A cada batida da música, todos se entregam à dança e ao êxtase de estar presenciando um dos maiores artistas da atualidade, proporcionando diversão e entretenimento para os passageiros á bordo, e é claro cantando em inglês da melhor maneira possível.</p>
+
+ <p><br></p>
+
+ <p><strong>Olha só já temos duas grandes atrações confirmadas</strong></p>
+
+<img src="img/mendes.png" alt="cruzeiro" height="315" width="400">
+
+<video width="560" height="315" controls>
+    <source src="vid/mendes.mp4" type="video/mp4">
+    </video>
+    </div>
+
+<h2><font color="#800080">Você não pode ficar de fora dessa!</font></h2>
+
+ <script>
+ function calcularValorTotal() {
+ var total = 0;
+ 
+ // Obter quantidade de pessoas
+ var qtdPessoas = document.getElementById('qtd-pessoas').value;
+ 
+ // Obter tipo de quarto selecionado
+ var tipoQuarto = document.getElementById('tipo-quarto').value;
+ 
+ // Calcular valor total
+ if (tipoQuarto === 'interna') {
+ total = qtdPessoas * 15000; // Valor para quarto individual
+ } else if (tipoQuarto === 'janela') {
+ total = qtdPessoas * 15500; // Valor para quarto duplo
+ } else if (tipoQuarto === 'varanda') {
+ total = qtdPessoas * 17000; // Valor para quarto triplo
+ } else if (tipoQuarto === 'suite') {
+ total = qtdPessoas * 20000; // Valor para quarto quadruplo
+ }
+ 
+ // Exibir valor total
+ document.getElementById('valor-total').innerHTML = 'Valor Total: R$ ' + total;
+ }
+ </script>
+
+ <div class="dados-pessoais">
+ <h2>Inscreva-se já para fazer parte desta experiência incrível!</h2>
+ <form>
+ <label for="nome">Nome:</label>
+ <input type="text" id="nome" name="nome" required><br><br>
+
+ <label for="CPF">CPF:</label>
+ <input type="text" id="CPF" name="CPF" required><br><br>
+ 
+ <label for="email">Email:</label>
+ <input type="email" id="email" name="email" required><br><br>
+ 
+ <label for="telefone">Telefone:</label>
+ <input type="tel" id="telefone" name="telefone" required><br><br>
+
+
+ <form>
+ <label for="age">Idade:</label>
+ <input type="number" id="age" name="age" required><br><br>
+
+ <div id="cpfField" style="display:none;">
+ <label for="cpf">CPF do responsável:</label>
+ <input type="text" id="cpf" name="cpf"><br><br>
+ </div>
+
+ <script>
+ const ageInput = document.getElementById('age');
+ const cpfField = document.getElementById('cpfField');
+
+ ageInput.addEventListener('input', function() {
+ if (parseInt(this.value) < 18) {
+ cpfField.style.display = 'block';
+ } else {
+ cpfField.style.display = 'none';
+ }
+ });
+ </script>
+
+<label for="data-viagem">Selecione a data de viagem</label>
+ <select id="data-viagem">
+ <option value="">Selecione</option>
+ <option value="nov-dez">01 nov á 30 dez 2023</option>
+ <option value="jan-fev">10 jan á 9 fev 2024 </option>
+ <option value="fev-mar">25 fev á 24 mar 2024</option>
+ <option value="abr-mai">14 abr á 13 mai 2024</option>
+ </select>
+
+<br><br>
+
+ <form>
+ <label for="quarto">Escolha seu quarto:</label>
+ <select name="plataforma">
+ <option value="">Selecione</option>
+ <option value="xbox">1 cama solteiro</option>
+ <option value="ps5">2 camas solteiro</option>
+ <option value="nsw">1 cama casal</option>
+ <option value="pcg">2 camas casal</option>
+ </select>
+ </form> <br>
+ 
+
+ <select id="tipo-quarto">
+ <option value="">Selecione</option>
+ <option value="interna">cabine interna</option>
+ <option value="janela">cabine externa com janela</option>
+ <option value="varanda">cabine externa com varanda</option>
+ <option value="suite">suite</option>
+ </select>
+ 
+ <br><br>
+ 
+ <div>
+ <img id="imagem-quarto" src="" alt="Imagem do quarto" height="600" width="870">
+ </div>
+ 
+ <script>
+ const tipoQuartoSelect = document.getElementById("tipo-quarto");
+ const imagemQuarto = document.getElementById("imagem-quarto");
+ 
+ tipoQuartoSelect.addEventListener("change", () => {
+ const tipoQuarto = tipoQuartoSelect.value;
+ 
+ if (tipoQuarto === "interna") {
+ imagemQuarto.src = "img/interna.jpg";
+ } else if (tipoQuarto === "janela") {
+ imagemQuarto.src = "img/janela.jpg";
+ } else if (tipoQuarto === "varanda") {
+ imagemQuarto.src = "img/varanda.jpg";
+ } else if (tipoQuarto === "suite") {
+ imagemQuarto.src = "img/suite.jpg";
+ } else {
+ 
+ imagemQuarto.src = ""; // caso nenhum tipo seja selecionado, remove a imagem
+ }
+ });
+ </script>
+
+<br>
+
+<label for="qtd-pessoas">Quantidade de Pessoas:</label>
+ <input type="number" id="qtd-pessoas" min="1" required><br>
+
+ <br>
+ 
+ <button type="button" onclick="calcularValorTotal()">Calcular Valor Total</button>
+ </form>
+ 
+ <p id="valor-total"></p> 
+ 
+ <br><br>
+
+ <input type="submit" value="Comprar" style="width: 100px; height: 70px">
+ </form>
+ </div>
+ </div>
+ <p>
+
+ </p>
+
+ <footer>
+ <p>&copy; 2023 CruiseLearn Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
