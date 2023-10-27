@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+ <title>CruiseLearn</title>
+ <link rel="stylesheet" href="styles.css"
+</head>
+
+<div id="header">
+ <img id="logo" src="img/logo.png" alt="Company logo">
+
+</div>
+
+<body>
+ <div class="container">
+ <h1>Welcome to CruiseLearn</h1>
+ 
+ <div class="cruise-ride">
+ <h2>Are you that person who wants to travel the world, but your English is a little rusty? Calm down, I have a solution</h2>
+<p>I present to you CruizeLearn, a cruise where you can deepen your English, and at the same time have an unforgettable experience, getting to know different places in one trip.</p>
+<p>On board the cruise, you will have access to a multitude of entertainment activities, from English classes to breathtaking shows, all with English language immersion.</p>
+<p>Want to know more? Read our article below, and don't forget <font color="#800080">Learn and have fun exploring new destinations with CruiseLear!</font></p>
+
+
+ <img src="img/cruzeiro.jpg" alt="cruzeiro" height="480" width="400">
+ <img src="img/cruzeiro3.jpg" alt="cruzeiro" height="480" width="250">
+ <img src="img/cruzeiro2.jpg" alt="cruzeiro" height="480" width="400">
+ </div>
+
+ <p> <br/><br/><br/> </p>
+ 
+ <div class="travel itinerary">
+    <h2><font color="#800080">Travel itinerary</font></h2>
+   
+   <p><br></p>
+   
+   <p><strong>- 1st Stop: United States - New York</strong></p>
+   <p><font color="#800080">-Broadway:</font>
+   Watching a Broadway musical is one of the most popular activities for Brazilians traveling to New York. These are grand, over-produced presentations that truly provide unforgettable experiences.</p>
+    
+   
+   <p><font color="#800080">-National Museum of Indians:</font>
+   Part of a branch of the Smithsonian Institute in New York, the museum is housed in a beautiful building near Battery Park. There are more than 825,000 items from 1,200 indigenous cultures, covering 12,000 years of history of the native peoples of the United States. It is one of the largest collections of its kind in the world and essential for understanding a little of the territory before the arrival of Europeans.</p>
+   
+   <img src="img/bro.jpg" alt="cruzeiro" height="315" width="400">
+   <img src="img/museu.webp" alt="cruzeiro" height="315" width="400">
+   
+   <p><br></p>
+   
+   <p><strong>- 2nd Stop: Canada - Montreal</strong></p>
+   
+   <p><font color="#800080">-Montreal Boanic Garden:</font>
+   Discover the Montreal Botanical Garden, one of the largest botanical gardens in the world. Nature lovers will be enchanted by the more than 22 thousand species of plants, 10 exhibition greenhouses and 20 themed gardens throughout its 75 hectares of fresh air and natural beauty.</p>
+   
+   <p><font color="#800080">-Notre Dame Basilica:</font>
+   The Notre-Dame de Montreal Basilica is one of the most incredible buildings in the city and should not be left out of your itinerary. It is one of the main churches in Montreal and is dedicated to the Virgin Mary.
+   The basilica is very large and has a really beautiful architecture, but it is its altar that takes visitors' breath away, in this space the highlight is the carved wood of the altar and painted in blue and gold. The space is magnificent and worth a photo.</p>
+   
+   <img src="img/jardim.jpg" alt="cruzeiro" height="315" width="400">
+   <img src="img/basilica.avif" alt="cruzeiro" height="315" width="400">
+   
+   <p><br></p>
+
+   <p><strong>- 3rd Stop: England - London</strong></p>
+
+   <p><font color="#800080">-Tower of London:</font>
+   Situated on the banks of the River Thames, the Tower of London is one of the city's most popular tourist attractions because of the mix of intrigue and dread inspired by its history. You will have the opportunity to see magnificent royal pieces that you have probably seen in magazines countless times.
+   
+   <p><font color="#800080">-Buckingham Palace:</font>
+   Built in 1703 as the residence of the Duke of Buckingham, the palace now serves as the official residence of the British monarch, Charles III. It is a luxurious palace with stunning rooms, offices and beautiful gardens. Buckingham Palace has over 775 bedrooms, including 19 state bedrooms, 52 royal and guest bedrooms, 92 offices and 78 bathrooms. You can explore various sections of the building and check out the State Rooms, Throne Room, Ballroom, Grand Staircase, White Drawing Room, and the Queen's Gallery, among others.</p>
+   
+   <img src="img/torre.webp" alt="cruzeiro" height="315" width="400">
+   <img src="img/palacio.jpeg" alt="cruzeiro" height="315" width="400">
+   
+   <p><br></p>
+   
+   <p><strong>- 4th Stop: South Africa - Cape Town</strong></p>
+    
+   <p><font color="#800080">-Green Point:</font>
+   Built on the edge of the ocean, Green Point has already become one of Cape Town's postcards, another of the stadiums built specifically for the 2010 World Cup, Green Point is considered one of the most beautiful in South Africa With a capacity for 70,000 spectators, the venue, which is actually a multi-use arena, can host shows and other large events and is completely covered with a noise-reducing layer. </p>
+   
+   <p><font color="#800080">-Green Point:</font>
+   Boulders Beach is a friendly beach with crystal clear, calm waters in Cape Town, and the most visited in the region, being the only place in the world where you can get this close to African penguins!</p>
+   
+   <img src="img/estadio.jpg" alt="cruzeiro" height="315" width="400">
+   <img src="img/pinguin.jpg" alt="cruzeiro" height="315" width="400">
+   
+    <p> <br/><br/><br/> </p>
+    
+    <div class="about the cruise">
+        <h2><font color="#800080">How does the cost of the trip work?</font></h2>
+       
+        <p>Everything is included, <strong>except</strong> expenses at destinations, meals at cruise restaurants, SPA and gym</p>
+       
+        <p> <br/><br/><br/> </p>
+       
+        <div class="about the cruise">
+        <h2>ATTENTION</h2>
+       
+       <p><strong>Pay attention to the times established by the ship for disembarking and boarding at each destination, as well as the optional activities and excursions offered on board</strong></p>
+       
+       <p> <br/><br/><br/> </p>
+       
+        <div class="about the cruise">
+        <h2><font color="#800080">Boarding day</font></h2>
+
+        <p>- The cruise will leave the Pier Mauá Maritime Terminal at 6:00 am, arrive at the boarding port in advance, at least 2 hours before</p>
+
+        <p><strong>Rio de Janeiro - Pier Maúa Maritime Terminal</strong></p>
+        <img src="img/mapa.png" alt="cruzeiro" height="315" width="400">
+        
+        <p><br></p>
+        
+        <p>- Check in, present your intermediate or advanced English course certificate, collect your identification bracelet, and board the ship.</p>
+        <p>- Check your cabin number and settle in</p>
+        <p>- Have your breakfast from 06:30 to 07:30</p>
+        <p>- Disembark at 08:00 with our local guide, and participate in our organized excursions, discover the tourist attractions presented. After this activity you are free to explore the city as you wish, getting to know the culture, typical local foods or shopping</p>
+        <p>- Return to the ship at 6:30 pm for departure, don't forget to present your ID</p>
+        <p>- In the evening, enjoy the ship's facilities and relax.</p>
+        
+<p> <br/><br/><br/> </p>
+
+        <div class="about the cruise">
+            <h2><font color="#800080">About the ID bracelet</font></h2>
+        
+        <p>Each passenger receives a bracelet with a unique code. Before the cruise begins, passenger data is recorded and programmed into our access control system, where we monitor the status of each passenger in real time, facilitating entry and exit monitoring.</p>
+        <p>There are wristband reading machines installed at our arrival and departure gates.
+        In addition, it is used to make payments within the cruise, access cabins and record activities carried out on the ship. Providing agility, safety, and greater performance for our passengers</p>
+        
+        <img src="img/pulseira.jpg" alt="cruzeiro" height="315" width="400">
+        
+        <p> <br/><br/><br/> </p>
+
+
+        <div class="about the cruise">
+            <h2><font color="#800080">Last day of navigation</font></h2>
+           <p>- Enjoy the last day of sailing.</p>
+           <p>- Take part in our activities</p>
+           <p>- Enjoy special meals on board.</p>
+           <p>- At 5:00 pm everyone must go to the meeting room, where they will receive their certificates</p>
+           <p>- When the meeting ends, enjoy the night, dance in the disco, and watch the big closing show.</p>
+           
+           <p> <br/><br/><br/> </p>
+           
+           <div class="about the cruise">
+            <h2><font color="#800080">Disembarkation</font></h2><div class="about the cruise">
+            
+           <p>- Prepare your bags and disembark the ship after breakfast.</p>
+           <p>- When disembarking, return your identification bracelet</p>
+           <p>- Thank the crew for their service.</p>
+           <p>- Return to the embarkation port, and return home </p>
+           <p>- We will rate you and come back whenever you want</p>
+
+<p> <br/><br/><br/> </p>
+
+<div class="about the cruise">
+    <h2><font color="#800080">Daily schedule</font></h2>
+   
+   <p><strong>*ATTENTION on the days of stops at destinations the daily schedule is cancelled*</strong></p>
+   
+   <img src="img/cronogramaieng.png" alt="cruzeiro" height="400" width="600">
+   
+   
+   <p> <br/><br/><br/> </p>
+   
+   <div class="about the course">
+    <h2><font color="#800080">About the course</font></h2>
+   
+   <p>- We will offer mandatory and optional classes </p>
+   <p>- We will make course support material available during classes, such as handouts and books, to help you continue practicing English outside the cruise</p>
+   <p>- Inside the ship there will be communicative activities, such as workshops, sports, casino, shows, lectures, cooking classes, cinema, spa, restaurants, all using English, which will add to your knowledge of the language</p>
+   <p>- Stops at destinations, where you can communicate with natives and practice your English</p>
+   <p>- After the end of the trip we will send you your online certificate and your points achieved during the activities</p>
+   
+   <p> <br/><br/><br/> </p>
+
+   <div class="Classes">
+    <h2><font color="#800080">Classes and teachers</font></h2>
+   
+<p>English classes are <strong>mandatory</strong>, and take place from Monday to Saturday, from 8:00 am to 11:00 am. There are more than 10 with academic backgrounds in teaching English, as a foreign language and experience. Within these classes there are English immersion programs and related activities, such as conversation, pronunciation, reading and writing, providing interactive classes.
+
+<p><br></p>
+
+<p><strong>Are you tired of the same English exercises? So, meet Teacher Paula Gabriela</strong></p>
+<p>One of the teachers who has grown the most in recent years, teaching on large platforms. Teacher Paula Gabriela started to develop a new way of teaching English, which is more practical and fun, using films, series, music and travel</p>
+
+<img src="img/prof1.png" alt="cruzeiro" height="315" width="600">
+
+<p> <br/><br/><br/> </p>
+
+
+<div class="Classes">
+    <h2><font color="#800080">Lectures</font></h2>
+
+<p>Lectures are also <strong>mandatory</strong>. Our speakers are highly qualified and experienced, they cover a variety of topics such as vocabulary, grammar, pronunciation, idioms and culture.
+During the Lectures, participants have the opportunity to practice their English conversation skills by participating in interactive exercises and group discussions. Let's get to know a little about one of our guest speakers?</p>
+
+<p><br></p>
+
+<p><strong>It's quite common to notice Brazilians interested in learning English, but have you ever thought about how it works the other way around?</strong></p>
+<p>What if I told you that an American named Gavin Roy became fluent in Portuguese on his own?
+    It seems impossible, but it's true! So, becoming fluent in English is also possible, this is the promise of Gavin Roy, one of the leading English teachers on the market. And to find out if all this is true, we prepared an exclusive talk with him on our cruise.</p>
+
+    <img src="img/prof2.jpeg" alt="cruzeiro" height="315" width="600">
+
+<p> <br/><br/><br/> </p>
+
+<div class="Gastronomy">
+ <h2><font color="#800080">Gastronomy</font></h2>
+
+<p>Our restaurants are diverse, offering a variety of options. From buffet restaurants, which serve dishes from around the world, specialty restaurants that provide a gourmet experience, and themed cuisine restaurants, such as steakhouses, Japanese and Italian restaurants, etc. Everything so that everyone has a unique opportunity to explore flavors.</p>
+ 
+<img src="img/comi1.jpg" alt="cruzeiro" height="380" width="300">
+<img src="img/comi3.jpg" alt="cruzeiro" height="380" width="250">
+<img src="img/comi2.jpg" alt="cruzeiro" height="380" width="300">
+
+
+<p><br></p>
+
+<p><strong>Did you know we have cooking classes on board?</strong></p>
+    Our cruise offers optional cooking classes with our chef Queren, who is knowledgeable in a variety of cooking styles.
+    The chef explains the cooking techniques in English, and provides step-by-step instructions for participants to follow. During classes, students learn to prepare recipes and use different kitchen utensils, to understand vocabulary related to cooking in English.
+    The dishes are made in groups, which provides a social and fun experience, so that participants can interact with each other, share tips and exchange culinary experiences.</p>
+
+    <video width="560" height="315" controls>
+        <source src="vid/gastro.mp4" type="video/mp4">
+        </video>
+        </div>
+
+
+<p> <br/><br/><br/> </p>
+
+<div class="about the course">
+    <h2><font color="#800080">Health and Beauty</font></h2>
+   
+   <p><strong>- Academy: </strong>Open from 05:00 to 07:30 in the morning, and return from 11:15, there are breaks on lecture days</p>
+   <p><strong>- SPA: </strong>You can enjoy massages, facials, manicures and pedicures, and relax in the hydromassage pool, open from 11:15, there are also breaks on lecture days</strong> strong></p>
+   
+   <p> <br/><br/><br/> </p>
+   
+   
+   <div class="about the course">
+    <h2><font color="#800080">Onboard activities</font></h2>
+   
+   <p><strong>Get a discount on your next CruiseLear trip</strong></p>
+   <p>If you participate in any activity proposed on board, you will earn points, which you can present on your next CruiseLear trip and get a discount, cool isn't it? Activities include:</p>
+   <p><strong>ATTENTION: Activities on board are paused during lecture hours</strong></p>
+   <p><br></p>
+   
+   <p><strong>- Sports</strong></p>
+   <p>Small areas for practicing sports such as basketball, miniature golf and table tennis, under the supervision of our instructors
+   Gyms open from 5:00 am to 7:30 am, and reopen from 11:15 am, there are breaks on lecture days</p>
+
+<p><br></p>
+
+<p><strong>- Educational Casinos</strong></p>
+<p>Where you can try your luck <strong>without the use of bets (money)</strong>, in games such as blackjack, poker and slot machines, players can exchange their points collected in games for prizes. Thus providing more safety and fun for our passengers, open all week, starting at 8:00 pm</p>
+
+<p><br></p>
+
+<p><strong>- Cinema</strong></p>
+
+<p><strong>Films only in English and subtitles</strong></p>
+<p>Sessions take place from Monday to Friday, from 8:00 pm to 10:30 pm</p>
+
+<p><br></p>
+
+<p><strong>- Activities for children and teenagers</strong></p>
+If you have children with you, there are play areas and children's clubs available on our ship. They can be looked after safely, thanks to our tutors present in these spaces, open all week, from 07:30 to 22:00<p>
+
+<p> <br/><br/><br/> </p>
+
+ <div class="Attractions">
+ <h2><font color="#800080">Attractions and themed parties</font></h2>
+ 
+ <p>Themed parties are a way to engage with people on board. One of the most talked about on our cruise is the tropical party, where we offer a wide variety of tropical food and drinks. Where passengers wear tropical clothing and accessories, such as swimsuits, floral shirts, Hawaiian necklaces, etc. There are attractions every night, with live music and open bars, for passengers to enjoy.</p>
+ 
+ <p><br></p>
+
+ <p><strong>Have you ever thought about traveling with your favorite singer? That's right, in addition to being able to practice your English, there's the chance to meet your favorite singer.</strong></p>
+ 
+ <img src="img/brunoeng.webp" alt="cruzeiro" height="315" width="400">
+
+ <video width="560" height="315" controls>
+ <source src="vid/bruno.mp4" type="video/mp4">
+ </video>
+ </div>
+
+ <p>Certainly, being at the Bruno Mars show on a cruise is a unique and exciting experience, isn't it? The singer's infectious energy and the party on board the ship create a perfect combination. With each beat of the music, everyone gives in to dancing and the ecstasy of witnessing one of the greatest artists of our time, providing fun and entertainment for the passengers on board, and of course singing in English in the best possible way.</p>
+
+ <p><br></p>
+
+ <p><strong>Look, we already have two major attractions confirmed</strong></p>
+
+<img src="img/mendeseng.png" alt="cruzeiro" height="315" width="400">
+
+<video width="560" height="315" controls>
+    <source src="vid/mendes.mp4" type="video/mp4">
+    </video>
+    </div>
+
+<h2><font color="#800080">You can't stay out of this!</font></h2>
+
+ <script>
+ function calcularValorTotal() {
+ var total = 0;
+ 
+ // Obter quantidade de pessoas
+ var qtdPessoas = document.getElementById('qtd-pessoas').value;
+ 
+ // Obter tipo de quarto selecionado
+ var tipoQuarto = document.getElementById('tipo-quarto').value;
+ 
+ // Calcular valor total
+ if (tipoQuarto === 'interna') {
+ total = qtdPessoas * 15000; // Valor para quarto individual
+ } else if (tipoQuarto === 'janela') {
+ total = qtdPessoas * 15500; // Valor para quarto duplo
+ } else if (tipoQuarto === 'varanda') {
+ total = qtdPessoas * 17000; // Valor para quarto triplo
+ } else if (tipoQuarto === 'suite') {
+ total = qtdPessoas * 20000; // Valor para quarto quadruplo
+ }
+ 
+ // Exibir valor total
+ document.getElementById('valor-total').innerHTML = 'Valor Total: R$ ' + total;
+ }
+ </script>
+
+ <div class="dados-pessoais">
+    <h2>Sign up now to be part of this incredible experience!</h2>
+ <form>
+ <label for="nome">Name:</label>
+ <input type="text" id="nome" name="nome" required><br><br>
+
+ <label for="CPF">CPF:</label>
+ <input type="text" id="CPF" name="CPF" required><br><br>
+ 
+ <label for="email">Email:</label>
+ <input type="email" id="email" name="email" required><br><br>
+ 
+ <label for="telefone">Tephone:</label>
+ <input type="tel" id="telefone" name="telefone" required><br><br>
+
+
+ <form>
+ <label for="age">age:</label>
+ <input type="number" id="age" name="age" required><br><br>
+
+ <div id="cpfField" style="display:none;">
+ <label for="cpf">CPF do responsável:</label>
+ <input type="text" id="cpf" name="cpf"><br><br>
+ </div>
+
+ <script>
+ const ageInput = document.getElementById('age');
+ const cpfField = document.getElementById('cpfField');
+
+ ageInput.addEventListener('input', function() {
+ if (parseInt(this.value) < 18) {
+ cpfField.style.display = 'block';
+ } else {
+ cpfField.style.display = 'none';
+ }
+ });
+ </script>
+
+<label for="data-viagem">Select travel date</label>
+ <select id="data-viagem">
+ <option value="">Select</option>
+ <option value="nov-dez">01 nov á 30 dec 2023</option>
+ <option value="jan-fev">10 jan á 9 feb 2024 </option>
+ <option value="fev-mar">25 feb á 24 mar 2024</option>
+ <option value="abr-mai">14 apr á 13 may 2024</option>
+ </select>
+
+<br><br>
+
+ <form>
+ <label for="quarto">Choose your room:</label>
+ <select name="plataforma">
+ <option value="">Selecione</option>
+ <option value="xbox">1 single bed</option>
+ <option value="ps5">2 single beds</option>
+ <option value="nsw">1 double bed</option>
+ <option value="pcg">2 double beds</option>
+ </select>
+ </form> <br>
+ 
+
+ <select id="tipo-quarto">
+ <option value="">Select</option>
+ <option value="interna">inner cabin</option>
+ <option value="janela">external cabin with window</option>
+ <option value="varanda">outdoor cabin with balcony</option>
+ <option value="suite">suite</option>
+
+ </select>
+ 
+ <br><br>
+ 
+ <div>
+ <img id="imagem-quarto" src="" alt="Imagem do quarto" height="600" width="870">
+ </div>
+ 
+ <script>
+ const tipoQuartoSelect = document.getElementById("tipo-quarto");
+ const imagemQuarto = document.getElementById("imagem-quarto");
+ 
+ tipoQuartoSelect.addEventListener("change", () => {
+ const tipoQuarto = tipoQuartoSelect.value;
+ 
+ if (tipoQuarto === "interna") {
+ imagemQuarto.src = "img/interna.jpg";
+ } else if (tipoQuarto === "janela") {
+ imagemQuarto.src = "img/janela.jpg";
+ } else if (tipoQuarto === "varanda") {
+ imagemQuarto.src = "img/varanda.jpg";
+ } else if (tipoQuarto === "suite") {
+ imagemQuarto.src = "img/suite.jpg";
+ } else {
+ 
+ imagemQuarto.src = ""; // caso nenhum tipo seja selecionado, remove a imagem
+ }
+ });
+ </script>
+
+<br>
+
+<label for="qtd-pessoas">Amount of people:</label>
+ <input type="number" id="qtd-pessoas" min="1" required><br>
+
+ <br>
+ 
+ <button type="button" onclick="calcularValorTotal()">Calculate Total Value</button>
+ </form>
+ 
+ <p id="valor-total"></p> 
+ 
+ <br><br>
+
+ <input type="submit" value="purchase" style="width: 100px; height: 70px">
+ </form>
+ </div>
+ </div>
+ <p>
+
+ </p>
+
+ <footer>
+ <p>&copy; 2023 CruiseLearn All rights reserved.</p>
+</footer>
+</body>
+</html>
