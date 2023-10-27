@@ -1,0 +1,62 @@
+#cabecalho {
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+ }
+
+ #logo {
+    width: 70px;
+    height: auto;
+    margin-right: 10px;
+ }
+
+ #titulo {
+    font-size: 24px;
+    font-weight: bold;
+ }
+ 
+body {
+    background-color: lavender;
+    font-family: Arial, sans-serif;
+   }
+   
+   h1 {
+    color: purple;
+   }
+   
+   .container {
+    width: 80%;
+    margin: 0 auto;
+   }
+   
+   .passeio-cruzeiro {
+    margin-top: 50px;
+   }
+   
+   .dados-pessoais {
+    margin-top: 50px;
+   }
+ 
+ tfoot {
+ font-style: italic;
+ }
+ 
+ footer {
+ background-color: #8a60ac;
+ padding: 20px;
+ text-align: center;
+ }
+ 
+ footer p {
+ margin: 0;
+ }
+ 
+
+ <style>
+    img {
+      width: 300px;
+      height: 200px;
+    }
+  </style>
+
